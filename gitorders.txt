@@ -1,0 +1,4 @@
+Git orders
+====克隆====
+git clone https://github.com/Sweallow/MyConf.git
+====
